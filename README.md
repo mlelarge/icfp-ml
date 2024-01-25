@@ -13,8 +13,8 @@
 - Modeling knowledge
 - Prediction via optimization
 - Types of errors and successes
-- The Neyman-Pearson Lemma
-- Properties of ROC curves
+- The Neyman-Pearson Lemma (tbd)
+- Properties of ROC curves (tbd)
 
 ### practicals
 - Exact ROC curves for Gaussian mixtures: https://github.com/mlelarge/icfp-ml/blob/main/Exact_ROC_GM.ipynb
@@ -22,17 +22,11 @@
 ### supervised learning
 - Sample versus Population
 - A first learning algorithm: the perceptron
-- Connection to empirical risk minmization
+- Connection to empirical risk minimization
 - Formal guarantees for the perceptron
 
 
-## 2. Optimization for machine learning
-
-- gradient descent
-- SGD
-- over-parameterized models:https://hackmd.io/@mlelarge/S1y5bEAhj
-
-## 3. Pytorch basics and autodiff
+## 2. Pytorch basics and autodiff
 
 [Module 2a - Pytorch tensors](https://dataflowr.github.io/website/modules/2a-pytorch-tensors/)
 
@@ -40,3 +34,9 @@
 
 [Module 5 - Stacking layers](https://dataflowr.github.io/website/modules/5-stacking-layers/)
 
+
+## 3. Optimization for machine learning
+
+- gradient descent
+- SGD
+- over-parameterized models:https://hackmd.io/@mlelarge/S1y5bEAhj
