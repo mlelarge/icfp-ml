@@ -34,10 +34,11 @@
 
 [Module 5 - Stacking layers](https://dataflowr.github.io/website/modules/5-stacking-layers/)
 
-### practicals
-- Naive Bayes and logistic regression: https://github.com/mlelarge/icfp-ml/blob/main/01_NaivesBayes_Logistic_empty.ipynb
 ## 3. Optimization for machine learning
 
 - gradient descent
 - SGD
 - over-parameterized models:https://hackmd.io/@mlelarge/S1y5bEAhj
+
+### practicals
+- Naive Bayes and logistic regression: https://github.com/mlelarge/icfp-ml/blob/main/01_NaivesBayes_Logistic_empty.ipynb
