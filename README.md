@@ -53,3 +53,24 @@
 - Positive-definite kernel methods
     - representer theorem
     - kernel trick
+
+### practicals
+- Kernel with [random Fourier features](https://github.com/mlelarge/icfp-ml/blob/main/03_kernel_random_fourier_empty.ipynb)
+
+## 5. Unsupervised Learning
+
+- K-means clustering
+- Mixtures of Gaussian
+- Expectation-Maximization for GMM
+
+### practicals
+- SVD
+- [Eigenfaces](https://github.com/mlelarge/icfp-ml/blob/main/02_SVD_Eigenfaces_empty.ipynb)
+
+## 6. Bayesian and Variational Inference
+
+- Gaussian
+- Linear regression
+- Logistic regression
+- Laplace method
+- Variational inference
