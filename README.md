@@ -5,8 +5,9 @@
 - Basic Calculus, Linear Algebra
 - Basic Probability and Statistics
 
+![](images/planning.png)
 
-## 1. Fundamentals of predictions and supervised learning
+## 1. Fundamentals of predictions and supervised learning (16/01)
 
 ### Fundamentals of predictions
 - Minimizing errors
@@ -14,6 +15,9 @@
 - Prediction via optimization
 - Types of errors and successes
 - Properties of ROC curves
+
+### Ref
+- [Fundamentals of prediction](https://mlstory.org/prediction.html) from Patterns, Predictions, and Actions (A story about machine learning) by Moritz Hardt and Benjamin Recht
 
 ### practicals
 - Exact ROC curves for Gaussian mixtures: https://github.com/mlelarge/icfp-ml/blob/main/Exact_ROC_GM.ipynb
@@ -24,14 +28,19 @@
 - Connection to empirical risk minimization
 - Formal guarantees for the perceptron
 
+### Ref: 
+- [Supervised learning](https://mlstory.org/supervised.html)  from Patterns, Predictions, and Actions (A story about machine learning) by Moritz Hardt and Benjamin Recht
+
 ### practicals
 - Naive Bayes and logistic regression: https://github.com/mlelarge/icfp-ml/blob/main/01_NaivesBayes_Logistic_empty.ipynb
 
-## 2. Pytorch basics and autodiff
+## 2. Pytorch basics and autodiff (23/01)
 
 [Module 2a - Pytorch tensors](https://dataflowr.github.io/website/modules/2a-pytorch-tensors/)
 
 [Module 2b - Automatic differentiation](https://dataflowr.github.io/website/modules/2b-automatic-differentiation/)
+
+<span style="color: grey;">
 
 ## 3. Optimization for machine learning
 
@@ -74,3 +83,4 @@
 - Logistic regression
 - Laplace method
 - Variational inference
+</span>
