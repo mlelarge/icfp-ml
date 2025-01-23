@@ -40,9 +40,7 @@
 
 [Module 2b - Automatic differentiation](https://dataflowr.github.io/website/modules/2b-automatic-differentiation/)
 
-<span style="color: grey;">
-
-## 3. Optimization for machine learning
+## ${\textsf{\color{lightgrey} 3. Optimization for machine learning}}$
 
 - gradient descent
 - SGD
@@ -53,7 +51,7 @@
 
 - Heavy Ball Method: https://github.com/mlelarge/icfp-ml/blob/main/HeavyBall_empty.ipynb
 
-## 4. Kernels
+## ${\textsf{\color{lightgrey} 4. Kernels}}$
 
 - Local averaging methods
     - partitions estimators
@@ -66,7 +64,7 @@
 ### practicals
 - Kernel with [random Fourier features](https://github.com/mlelarge/icfp-ml/blob/main/03_kernel_random_fourier_empty.ipynb)
 
-## 5. Unsupervised Learning
+## ${\textsf{\color{lightgrey} 5. Unsupervised Learning }}$
 
 - K-means clustering
 - Mixtures of Gaussian
@@ -76,11 +74,10 @@
 - SVD
 - [Eigenfaces](https://github.com/mlelarge/icfp-ml/blob/main/02_SVD_Eigenfaces_empty.ipynb)
 
-## 6. Bayesian and Variational Inference
+## ${\textsf{\color{lightgrey} 6. Bayesian and Variational Inference }}$
 
 - Gaussian
 - Linear regression
 - Logistic regression
 - Laplace method
 - Variational inference
-</span>
