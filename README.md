@@ -40,11 +40,15 @@
 
 [Module 2b - Automatic differentiation](https://dataflowr.github.io/website/modules/2b-automatic-differentiation/)
 
-## ${\textsf{\color{lightgrey} 3. Optimization for machine learning}}$
+## 3. Optimization for machine learning
 
 - gradient descent
 - SGD
 - over-parameterized models:https://hackmd.io/@mlelarge/S1y5bEAhj
+
+### Ref: 
+- In Chapter 5 (Sections 5.2.1 and 5.4) of [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)  by Francis Bach
+
 
 ### practicals
 - [Module 5 - Stacking layers](https://dataflowr.github.io/website/modules/5-stacking-layers/)
