@@ -7,7 +7,7 @@ We encourage you to take a hands-on, applied approach, with an emphasis on desig
 
 ## Agenda
 
-- Project proposal, due by **March 12, 2026**.
+- [Project proposal](https://docs.google.com/document/d/1MyKRbci86dwbojGTatfn15Ji_Xfxc8f0_5qFTO_ZTAI/edit?usp=sharing), due by **March 12, 2026**.
 - Project code and defense, due by **April 2, 2026**.
 
 
